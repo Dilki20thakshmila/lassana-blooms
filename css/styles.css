@@ -3,15 +3,20 @@ body{
   text-align: center;
   margin: 0;
 }
+.butterfly{
+  position: absolute;
+  left:1100px;
+  top:0;
 
+}
 .shop-name{
 position: absolute;
-left:350px;
-top:5px;
-font-family:serif;
+left:450px;
+top:0;
+font-family:'Sacramento',serif;
 font-size: 80px;
 color: white;
-text-shadow: 2px 2px #006E7F;
+text-shadow: 4px 4px #005555;
 
 }
 .top{
@@ -37,7 +42,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
-  color: #5FD068;
+  color: white;
 }
 .item-2{
   font-family: serif;
@@ -45,7 +50,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
-  color: #5FD068;
+  color: white;
 }
 .item-3{
   font-family: serif;
@@ -53,7 +58,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
-  color: #5FD068;
+  color: white;
 }
 .item-4{
   font-family: serif;
@@ -61,7 +66,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
-  color: #5FD068;
+  color: white;
 }
 .top-left{
   width: 200px;
@@ -106,4 +111,46 @@ hr{
 }
 .img-6{
   width: 100%;
+}
+.bottom{
+  height: 150px;
+  text-align: center;
+  color:#6CC4A1;
+}
+.btn{
+  border-radius: 8px;
+  width: 150px;
+  height: 50px;
+  font-size: 15px;
+  font-weight: bolder;
+}
+.btn:hover{
+  background-color: #A0D995;
+}
+.socail{
+  position: relative;
+  height:100px;
+  background-color: #6CC4A1;
+  padding: 10px;
+}
+.facebook{
+position: absolute;
+top:10px;
+left:550px;
+}
+.linkdin{
+position: absolute;
+top:10px;
+left:650px;
+}
+.insta{
+position: absolute;
+top:10px;
+left:750px;
+}
+.last{
+  position: absolute;
+  left: 500px;
+  bottom:10px;
+  color: white;
 }
