@@ -4,35 +4,22 @@ body{
   margin: 0;
 }
 
-h1{
+.shop-name{
 position: absolute;
 left:350px;
-top:15px;
-font-family: 'Sacramento', cursive;
-font-size: 50px;
+top:5px;
+font-family:serif;
+font-size: 80px;
 color: white;
+text-shadow: 2px 2px #006E7F;
 
 }
 .top{
   position: relative;
-  border: solid #30e3cb 6px;
-
-
-}
-.butterfly-top{
-  position: absolute;
-  right: 240px;
-  top: 0px;
 }
 
-.butterfly-down{
-  position: absolute;
-  left: 250px;
-  top: 70px;
-}
 .shop{
   width: 100%;
-  opacity: 80%;
 }
 hr{
   border: dotted #30e3cb 6px;
@@ -50,6 +37,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
+  color: #5FD068;
 }
 .item-2{
   font-family: serif;
@@ -57,6 +45,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
+  color: #5FD068;
 }
 .item-3{
   font-family: serif;
@@ -64,6 +53,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
+  color: #5FD068;
 }
 .item-4{
   font-family: serif;
@@ -71,6 +61,7 @@ hr{
   left:20px;
   top:150px;
   font-size: 20px;
+  color: #5FD068;
 }
 .top-left{
   width: 200px;
