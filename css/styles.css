@@ -1,0 +1,89 @@
+body{
+  background-color: #eaf6f6;
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+position: absolute;
+left:350px;
+top:15px;
+font-family: 'Sacramento', cursive;
+font-size: 50px;
+color: white;
+
+}
+.top{
+  position: relative;
+  border: solid #30e3cb 6px;
+
+
+}
+.butterfly-top{
+  position: absolute;
+  right: 240px;
+  top: 0px;
+}
+
+.butterfly-down{
+  position: absolute;
+  left: 250px;
+  top: 70px;
+}
+.girl{
+  width: 100%;
+}
+hr{
+  border: dotted #30e3cb 6px;
+  border-bottom: none;
+  width:5%;
+  margin: 100px auto;
+}
+.middle{
+  position: relative;
+  height: 300px;
+}
+.top-left{
+  width: 200px;
+  height: 200px;
+  background-color: #A0D995;
+  position: absolute;
+  left:80px;
+  top:50px;
+}
+.bottom-left{
+  width: 200px;
+  height: 200px;
+  background-color: #6CC4A1;
+  position: absolute;
+  left:400px;
+  top:50px;
+}
+.top-right{
+  width: 200px;
+  height: 200px;
+  background-color: #6CC4A1;
+  position: absolute;
+  right:400px;
+  top:50px;
+}
+.bottom-right{
+  width: 200px;
+  height: 200px;
+  background-color: #A0D995;
+  position: absolute;
+  right:80px;
+  top:50px;
+}
+.img-3{
+  width: 100%;
+}
+.img-4{
+  width: 100%;
+}
+.img-5{
+  width: 100%;
+}
+.img-6{
+  width: 100%;
+}
