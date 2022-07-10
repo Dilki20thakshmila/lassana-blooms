@@ -30,8 +30,9 @@ color: white;
   left: 250px;
   top: 70px;
 }
-.girl{
+.shop{
   width: 100%;
+  opacity: 80%;
 }
 hr{
   border: dotted #30e3cb 6px;
@@ -42,6 +43,34 @@ hr{
 .middle{
   position: relative;
   height: 300px;
+}
+.item-1{
+  font-family: serif;
+  position: absolute;
+  left:20px;
+  top:150px;
+  font-size: 20px;
+}
+.item-2{
+  font-family: serif;
+  position: absolute;
+  left:20px;
+  top:150px;
+  font-size: 20px;
+}
+.item-3{
+  font-family: serif;
+  position: absolute;
+  left:20px;
+  top:150px;
+  font-size: 20px;
+}
+.item-4{
+  font-family: serif;
+  position: absolute;
+  left:20px;
+  top:150px;
+  font-size: 20px;
 }
 .top-left{
   width: 200px;
